@@ -1,0 +1,11 @@
+# Dataset (no se sube, ver README del proyecto para instrucciones de descarga)
+Machine-Learning/Sparse-Coding/datasets/
+R/Statistics-HW/datasets/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.env
+venv/
